@@ -1,0 +1,7 @@
+# Forget About these
+
+node_modules/
+_/
+assets/
+gulpfile.js
+package.json
