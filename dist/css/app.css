@@ -191,35 +191,28 @@ header {
   .hero--home hr.divider {
     background: #fff; }
 
-.welcome,
-.most-recent-article,
-.read-more {
+.most-recent-article {
   width: 100%;
-  padding: 2em 1em; }
-  .welcome h2,
-  .most-recent-article h2,
-  .read-more h2 {
-    color: #414141;
-    font-size: 3rem; }
-  .welcome a,
-  .most-recent-article a,
-  .read-more a {
+  padding: 4em 1em 2em; }
+  .most-recent-article a {
     display: block; }
-    .welcome a:hover,
-    .most-recent-article a:hover,
-    .read-more a:hover {
+    .most-recent-article a:hover {
       transform: translateY(-2px); }
-  .welcome article,
-  .most-recent-article article,
-  .read-more article {
+  .most-recent-article article {
     max-width: 600px;
-    margin: 0 auto;
-    padding-bottom: 4em; }
-  .welcome h3,
-  .most-recent-article h3,
-  .read-more h3 {
+    margin: 0 auto; }
+  .most-recent-article h3 {
     color: #414141;
     text-align: left; }
+
+.read-more {
+  padding: 0 1em 2em; }
+  .read-more h2 {
+    color: #414141;
+    font-size: 2.375rem; }
+  .read-more article {
+    max-width: 600px;
+    margin: 0 auto; }
 
 .hero--blog {
   background-image: url("/images/hero/fog.jpg"); }
@@ -268,5 +261,12 @@ section.about {
   section.about h6 {
     text-align: center;
     padding-bottom: 40px; }
+
+footer {
+  width: 100%;
+  padding: 1em;
+  text-align: center; }
+  footer h6 {
+    font-size: 12px; }
 
 /*# sourceMappingURL=app.css.map */
