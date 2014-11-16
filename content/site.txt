@@ -1,17 +1,13 @@
-Title: Kirby Starterkit
+Title: Kelbe Danielle
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Kelbe Danielle Goupil
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Blog about simple thoughts and my growing understanding and experiences.
 
 ----
 
-Keywords: Kirby, CMS, file-based
-
-----
-
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Keywords: 
