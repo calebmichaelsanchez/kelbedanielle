@@ -221,13 +221,15 @@ header {
   width: 100%;
   padding: 2em 1em; }
   .blog a {
-    display: block; }
+    display: block;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1em;
+    margin-bottom: 4em;
+    /* background: darken($color--primary, 2%);
+    border-bottom: 10px solid darken($color--primary, 6%); */ }
     .blog a:hover {
       transform: translateY(-2px); }
-  .blog article {
-    max-width: 600px;
-    margin: 0 auto;
-    padding-bottom: 4em; }
   .blog h3 {
     color: #414141;
     text-align: left; }
